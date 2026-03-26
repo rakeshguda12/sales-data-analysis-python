@@ -30,3 +30,19 @@ region_sales = data.groupby("Region")["Sales"].sum()
 sns.barplot(x=region_sales.index, y=region_sales.values)
 plt.title("Sales by Region")
 plt.show()
+
+# Top selling product
+
+top_product = product_sales.idxmax()
+print(f"\nTop Selling Product: {top_product}")
+
+# Region with highest sales
+
+top_region = region_sales.idxmax()
+print(f"Region with Highest Sales: {top_region}")
+
+# Total sales
+
+total_sales = data["Sales"].sum()
+print(f"Total Sales: {total_sales}")
+

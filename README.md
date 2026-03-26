@@ -34,7 +34,7 @@ These insights help businesses make data-driven decisions.
 
 ## 📸 Output
 
-![Sales Analysis]IMG_20260326_132751.jpg
+![Image](https://github.com/user-attachments/assets/9a5c95d8-46a5-4ead-92b2-16ce23c44d4c)
 
 ## 👤 Author
 

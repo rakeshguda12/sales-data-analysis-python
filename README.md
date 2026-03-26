@@ -23,6 +23,15 @@ This project analyzes sales data to find trends and insights using Python.
 
 2. Run:
    python analysis.py
+   
+   ## 📌 Key Insights
+
+* Identified the top-selling product from the dataset
+* Found the region with highest sales
+* Calculated total sales revenue
+
+These insights help businesses make data-driven decisions.
+
 
 ## 👤 Author
 

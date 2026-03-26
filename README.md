@@ -32,6 +32,7 @@ This project analyzes sales data to find trends and insights using Python.
 
 These insights help businesses make data-driven decisions.
 
+IMG_20260326_132751.jpg
 
 ## 👤 Author
 
